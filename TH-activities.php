@@ -74,25 +74,13 @@ include("path.php");
             </div>
             <!-- break -->
             <div class="blog-post">
-                <img src="./assets/pic/3.jpg" alt="" class="blog-post-img">
+                <img src="./assets/pic/3.JPG" alt="" class="blog-post-img">
                 <div class="blog-preview">
                     <h2>Google Apps for Edu - Deep Dive</h2>
                     <p>DLIT</p>
                     <div class="post-date">
                         <i class="fa-solid fa-calendar-days"></i>
                         <span>February 15, 2016</span>
-                    </div>
-                </div>
-            </div>
-            <!-- break -->
-            <div class="blog-post">
-                <img src="./assets/pic/2.jpg" alt="" class="blog-post-img">
-                <div class="blog-preview">
-                    <h2>Google Classroom - DLIT</h2>
-                    <p>CRMC</p>
-                    <div class="post-date">
-                        <i class="fa-solid fa-calendar-days"></i>
-                        <span>January 31, 2015</span>
                     </div>
                 </div>
             </div>
