@@ -10,5 +10,4 @@
         <li><a class="hover" href="<?php echo $base_url . "/contact.php" ?>">Contact Us</a></li>
         <li><a class="hover" href="<?php echo $base_url . "/index.php" ?>"><i class="fa-solid fa-earth-americas"></i></a></li>
     </ul>
-    <link rel="icon" type="image/x-icon" href="../../assets/pic/customLogo.png">
 </header>

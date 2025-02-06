@@ -24,6 +24,7 @@ include("path.php");
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="icon" type="image/x-icon" href="../../assets/pic/customLogo.png">
 
     <title>Activities - CRM-C</title>
 </head>
