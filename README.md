@@ -33,18 +33,16 @@ A responsive and bilingual (Thai-English) website for CRM Charity Foundation. Th
 ---
 
 ## 📁 Project Structure
+```
 /crm-charity-foundation/
-│
 ├── app/
-│ └── fix/
-│ ├── header.php
-│ ├── footer.php
-│ ├── TH-header.php
-│ └── TH-footer.php
-│
+│   └── fix/
+│       ├── header.php
+│       ├── footer.php
+│       ├── TH-header.php
+│       └── TH-footer.php
 ├── assets/
-│ └── (images, stylesheets, JS)
-│
+│   └── (images, stylesheets, JS)
 ├── ENG-index.php
 ├── index.php
 ├── TH-about-us.php
@@ -59,3 +57,4 @@ A responsive and bilingual (Thai-English) website for CRM Charity Foundation. Th
 ├── path.php
 ├── .htaccess
 └── Dockerfile
+```
